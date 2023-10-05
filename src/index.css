@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: black;
+}
+
+html {
+  background-image: url("https://img.freepik.com/fotos-premium/mujer-tienda-ropa-boutique-moda-escaparate-centro-comercial-desenfoque-fondo-desenfocado_293060-2453.jpg?w=2000");
+  background-size: cover;
+}
+
+a {
+  color: white;
+
+}
+
+h1 {
+  color: white;
+}
+
+body {
+  font-family: 'Courier Prime', monospace;
+  font-family: 'Poppins', sans-serif;
+}
