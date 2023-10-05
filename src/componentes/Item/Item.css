@@ -1,7 +1,7 @@
 .cardProducto {
-    background-color: #ffffff;
+  background-color: rgb(251, 229, 199);
     border-radius: 15px;
-    width: 14rem;
+    width: 20rem;
     padding: 1rem;
     margin: 1rem;
     display: flex;
@@ -27,4 +27,9 @@
 h3 {
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
+}
+
+.id{
+    font-size: 15px;
+    color: #555;
 }
